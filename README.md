@@ -1,4 +1,3 @@
-#CodeConnect
 
 Bem-vindo ao CodeConnect! 🚀
 
