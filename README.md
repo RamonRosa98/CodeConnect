@@ -27,7 +27,7 @@ JavaScript
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/codeconnect.git
+git clone https://github.com/RamonRosa98/codeconnect.git
 
 Acesse a pasta do projeto:
 
@@ -38,13 +38,5 @@ Abra o arquivo index.html no seu navegador.
 🎨 Layout
 
 O design segue um estilo moderno e escuro, utilizando a fonte Prompt e um esquema de cores monocromático, com destaque para tons de verde e cinza.
-
-🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-📄 Licença
-
-Este projeto está sob a licença MIT.
 
 📌 Desenvolvido por Ramon durante o curso da Alura✨
